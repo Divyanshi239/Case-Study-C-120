@@ -1,0 +1,43 @@
+.bob
+{
+    box-shadow: 8px 8px 8px gray;
+    background-color: rgb(250, 184, 217);
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+.heading
+{
+    font-size: 23px;
+    text-align: left;
+}
+
+.output
+{
+    font-size: 20px;
+    background-color: white;
+    border-radius: 50px;
+    line-height: 2;
+    width: 30%;
+}
+
+.output2
+{
+    font-size: 20px;
+    background-color: white;
+    border-radius: 50px;
+    line-height: 2;
+    width: 30%;
+    margin-left: 500px;
+}
+
+.result_div
+{
+    font-size: 26px;
+    color: deeppink;
+    font-weight: 600;
+}
