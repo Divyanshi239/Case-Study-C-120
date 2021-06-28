@@ -12,27 +12,32 @@
 
 .heading
 {
-    font-size: 23px;
+    font-size: 24px;
     text-align: left;
+    padding-left: 10px;
+    color: rgb(164, 41, 212);
 }
 
 .output
 {
     font-size: 20px;
-    background-color: white;
+    background-color: rgb(224, 111, 255);
     border-radius: 50px;
     line-height: 2;
     width: 30%;
+    margin-left: 15px;
+    color: rgb(247, 247, 130);
 }
 
 .output2
 {
     font-size: 20px;
-    background-color: white;
+    background-color: rgb(224, 111, 255);
     border-radius: 50px;
     line-height: 2;
     width: 30%;
     margin-left: 500px;
+    color: rgb(247, 247, 130);
 }
 
 .result_div
@@ -40,4 +45,65 @@
     font-size: 26px;
     color: deeppink;
     font-weight: 600;
+}
+
+.image_google {
+    width: 300px;
+    height: 160px;
+}
+
+.title {
+    color: rgb(172, 8, 172);
+    font-size: 27px;
+    font-weight: 600;
+}
+
+#mobile {
+    color: rgb(255, 255, 255);
+    background-color: purple;
+    width: 10%;
+    line-height: 2;
+    border-radius: 12px;
+}
+
+#vs {
+    color: red;
+}
+
+.imgs
+{
+    height: 400px;
+    width: 450px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 5px solid purple;
+    text-align: center;
+}
+
+.imgs2
+{
+    height: 400px;
+    width: 325px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 5px solid purple;
+    text-align: center;
+}
+
+.result
+{
+    font-size: 28px;
+    color: red;
+}
+
+#mini
+{
+    color: rgb(181, 231, 80);
+    background-color: rgb(17, 170, 170);
+    font-size: 23px;
+    border-radius: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 2;
+    border: 5px solid rgb(181, 231, 80);
 }
